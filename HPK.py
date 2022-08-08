@@ -13,6 +13,28 @@ print(Z+'='*58)
 xz ='AASSDDFFGGHHJJKKLLQQWWEERRTTYYUUIIOOPPMMNNBBVVCXXZZ'
 H = '1234567890'
 o ='_'
+print('''TeamElostora
+
+
+
+
+
+\t\t (<^>) tele : 
+
+
+''')
+
+
+
+
+
+pas = input(' [?] ENTER password -> ')
+
+
+if pas =='سارة':
+
+
+    print('''
 while True:
 	v = str("".join(random.choice(xz)for i in range(1)))
 	y = str("".join(random.choice(xz)for i in range(1)))	
