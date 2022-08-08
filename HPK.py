@@ -22,7 +22,7 @@ print('''TeamElostora
 pas = input(' [?] ENTER password -> ')
 
 
-if pas =='سارة':
+if pas =='Sarah':
 
 
 while True:
